@@ -48,7 +48,11 @@ b {
 
 .navbar-container {
   background-color: #111111;
-  -webkit-box-shadow: 0 1px 1px rgba(17, 17, 17, 0.6);
+  -webkit-
+  
+  
+  
+  -shadow: 0 1px 1px rgba(17, 17, 17, 0.6);
   box-shadow: 0 1px 1px rgba(17, 17, 17, 0.6);
   border-radius: 5px;
   display: table;
@@ -108,8 +112,8 @@ b {
   display: table;
   margin: 0 auto 0 auto;
   padding-left: 500px;
-  /* width: 380px;
-  margin: 60px auto; */
+  width: 380px;
+  /* margin: 60px auto; */
   font-family: 'Microsoft YaHei';
   font-size: 14px;
   position:relative;  top:80px;  left:-80px

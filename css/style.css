@@ -116,7 +116,7 @@ b {
   /* margin: 60px auto; */
   font-family: 'Microsoft YaHei';
   font-size: 14px;
-  position:relative;  top:80px;  left:-80px
+  position:relative;  top:80px;  left:-0px
 }
 
 input {
